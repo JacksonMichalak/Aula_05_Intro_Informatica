@@ -1,2 +1,10 @@
+<<<<<<< HEAD
 Pratica integradora um. 
 Jackson adicionando novas informações
+=======
+Pratica integradora -arquivo 1
+
+Alteração Carolina
+
+parte 8
+>>>>>>> dad7b2d6f4aed67f8a3bc699de5483406d527044
